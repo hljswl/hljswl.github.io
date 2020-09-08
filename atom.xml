@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hljswl.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-08T06:54:39.102Z</updated>
+    <updated>2020-09-08T07:00:56.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hljswl.github.io"/>
     <link rel="self" href="https://hljswl.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://hljswl.github.io/images/avatar.png</logo>
     <icon>https://hljswl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[YY]]></title>
-        <id>https://hljswl.github.io/post/cauc_ztyy/</id>
-        <link href="https://hljswl.github.io/post/cauc_ztyy/">
-        </link>
-        <updated>2020-09-08T06:52:05.000Z</updated>
-        <content type="html"><![CDATA[<p>个人专用</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hljswl.github.io/post/hello-gridea/</id>
